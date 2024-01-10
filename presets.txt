@@ -1,0 +1,47 @@
+My Ways 
+1. Set the wrapper 
+2. Identify fonts 
+2. Set preset body font, color, line height etc 
+3. import all images
+4. import all texts 
+
+------------------------------------------------------------------
+
+FONTS 
+
+1. Poppins
+font-family: 'Poppins', sans-serif;
+16 - box texts 
+20 - normal texts 
+23 - box sub headings
+font-weight: 300; - normal texts
+
+2. Racing
+font-family: 'Racing Sans One', cursive;
+20 - normal buttons
+30 - medium headings
+60 -large headings 
+
+
+-------------------------------------------------------------------
+
+COLOR SCHEME
+
+red
+c71e23
+
+black 
+23232d
+
+body texts
+1a1a1a 
+
+
+
+
+
+
+
+
+
+
